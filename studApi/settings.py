@@ -138,7 +138,7 @@ REST_FRAMEWORK = {
 
 SPECTACULAR_SETTINGS = {
     'TITLE': 'students API',
-    'DESCRIPTION': 'Your project description',
+    'DESCRIPTION': 'Project description',
     'VERSION': '1.0.0',
     # OTHER SETTINGS
 }

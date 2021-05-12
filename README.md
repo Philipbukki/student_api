@@ -1,5 +1,4 @@
 # student_api
-
 **How run studApi**
 
 ```console
