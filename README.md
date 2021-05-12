@@ -16,11 +16,17 @@ install requirements.
 ```console
 pipenv install -r requirements.txt
 ```
-
-run server 
+ making and running migrations
 
 ```console
 python3 manage.py runserver
 ```
+```console
+python3 manage.py makemigrations
+```
+```console
+python3 manage.py migrate
+```
+run server
 
 open port http://127.0.0.1:8080
