@@ -5,7 +5,9 @@ The student api allows a user to perform CRUD operations, that is to
 **How it works**
 
 Users can create a student object.
+
 Users can retrieve a list of existing student objects.
+
 Users can update or delete existing student objects.
 
 clone this repository
