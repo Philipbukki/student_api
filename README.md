@@ -1,5 +1,5 @@
 # student_api
-T he student api allows a user to perform CRUD operations, that is to
+The student api allows a user to perform CRUD operations, that is to
  create, retrieve, update and delete a student object.
  
 **How it works**
