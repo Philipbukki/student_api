@@ -1,5 +1,5 @@
 # student_api
-**How run studApi**
+**How to run studApi**
 
 ```console
 cd studApi
