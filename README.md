@@ -1,27 +1,42 @@
 # student_api
-**How to run studApi**
+T he student api allows a user to perform CRUD operations, that is to
+ create, retrieve, update and delete a student object.
+ 
+**How it works**
 
+Users can create a student object.
+Users can retrieve a list of existing student objects.
+Users can update or delete existing student objects.
+
+clone this repository
+
+```
+git clone https://github.com/Philipbukki/student_api.git
+
+```
+change directories into your repository
 ```console
 cd studApi
 ```
-
+create a virtual environment
+```console
+python3 -m venv env
+```
 activate virtual env
 
 ```console
 pipenv shell
 ```
 
-install requirements.
+install the packages needed.
 
 ```console
 pipenv install -r requirements.txt
 ```
- making and running migrations
+Make migrations
  
 ```console
 python3 manage.py makemigrations
-```
-```console
 python3 manage.py migrate
 ```
 run server
